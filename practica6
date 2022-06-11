@@ -1,0 +1,53 @@
+<HTML>
+<HEAD>
+<TITLE>Práctica6PáginaMúsica1</TITLE>
+<HEAD>
+<BODY BGCOLOR="oooo8B">
+
+<TABLE BGCOLOR="#oooo8B" BORDER="2" CELLPADDING="3" CELLSPACING="10" BORDERCOLOR="red">
+
+<CAPTION ALING="TOP"> <img src="musica anim.gif" widh="80" heigth="120" aling="letf"><FONT COLOR="#FFFFoo" SIZE = "5" FACE="Arial Rounded MT Bold "> <b> MI MUSICA, CANTANTES Y ARTISTAS <br> FAVORITOS </b></FONT><img src="manos.jpg" width="90" height="90" align="rigth"><img src="cantando.jpg" width="90" heigth="90" aling="right"></CAPTION></br>
+
+<tr align="center"> <td> <img src="musica1.jpg" width="80" height="40"></td>
+<td><img src="video1.jpg" width="80" heigth="40"></td>
+<td><img src="video2.jpg" width="80" heigth="40"></td>
+<td><img src="radio1.jpg" with="80" height="40"></td>
+<td><img src="radio2.jpg" with="80" height="40"></td> </tr>
+
+<tr> <th BGCOLOR="white" Colspan="2"> <FONT COLOR="red" SIZE="4" FACE="Arial Narrow" > <b>
+Cantantes Famosos </b></FONT> </th>
+<td width="8%"> </td>
+<th BGCOLOR="white"> <FONT COLOR="red" SIZE="4" FACE="Arial Narrow" > <b> Noticias </b></FOND> </th>
+<th BGCOLOR="white"> <FONT COLOR="red" SIZE="4" FACE="Arial Narrow" > <b> Películas </b></FOND> </th></tr>
+
+<tr> <td> align="center" ><img src= "enrique_iglesias.jpg" align="center" width="150" height="250"></td>
+<td> width="43%" > <FONT COLOR="white" SIZE="1" FACE= "Arial Narrow" > Enrique Iglesias ha conquistado buena parte del mercado latino, americano, europeo y asiático es un habitual ganador de premios Grammy. Nació en Madrid en 1975, es hijo del destacado cantante español Julio Iglesias. En 1996, lanzó su primer álbum en español y desde entonces tiene muchísimos sencillos la mayoría de las cuales son éxitos. Álbumes - Escape 2002, Quizás, Seven 2003, etc. Canciones: Enamorado por primera vez Mentirosa, Si tu te vas, Ballamos, etc. </FONT> </td>
+<td> width= "8%"> </td>
+<td align="center"><img src="Universal.jpg" with="80" height="30"> </td>
+<td align="center"><img src="cinemex.jpg" with="80" height="80"> </td> </tr>
+
+<tr> <td> align="center" > <img src="Shakira.jpg" width="150" heigth="250"></td>
+<td> width="43%"> <FONT COLOR="white" SIZE="1" FACE="Arial Narrow"> Shakira nacío en 1977 en Colombia. EN árabe Shakira significa "mujer llena de gracia", y para los hindúes significa "diosa de la luz". Dio sus primeros pasos en el mundo del espectáculo a los 5 años de edad. Siendo todavía adolescente, firmo su primer contrato con Sony Music Colombia y desde este momento a pasado de asombrarnos con sus canciones. Tiene varias nominaciones Grammy. Álbumes; Pies Descalzos, ¿Donde están los ladrones?, Luandry Service, Fijación Oral Vol. 1 y 2. Algunos de sus éxitos son: Estoy aquí, Un poco de amor, si te vas, Donde estas corazón, Donde están los Ladrones, Ciega, Sordomuda, Tú, etc. </FONT> </td>
+<td width="10%"><img src="sonido anim.gif" aling="center" width="50" heigth="50"></td>
+<td align="center"><img src="Reforma.jpg" width="80" heigth="30"> </td>
+<td align="center"><img src="cinepolis.jpg" width="80" heigth="80"> </td> </tr>
+
+<tr> <td align="center"><img src="Paulina Rubio.jpg" align="center" width="150" heigth="250"></td>
+<td> width="43%"> <FONT COLOR="white" SIZE="1" FACE="Arial Narrow"> Paulina Susana Rubio Dosamantes nació en 1971 en la ciudad de México es una cantante y actriz mexicana. Su música es conocida en Ibero América tiene seguidores en los Estados Unidos, Europa, Asia y Oceanía, Ha vendido más de 17 millones de álbumes alrededor del mundo. Es una de las artistas mexicanas que mayor ventas ha tenido y una de las cantantes más reconocidas en el mundo hispano. Sus últimos éxitos son los sencillos Mio, amor de mujer, enamorada, el me engaño, sangre latina, miel y sal, vuelve junto a mi, solo por ti, Bésame en la boca, Tú y Yo, Te daría mi vida, y muchos otros. Aparte de cantante es actriz, tiene papeles en varias telenovelas </FONT></td>
+
+<td width="8%"><img src="periodico1.jpg" aling="center" width="150" heigth="90"></td>
+<td align="center"><img src="Heraldo.jpg" width="80" heigth="30"> </td>
+<td align="center"><img src="cinemark.jpg" width="80" heigth="80"> </td> </tr>
+
+
+<tr> <td align="center"><img src="Ricky_Martin.jpg" align="center" width="150" heigth="250"></td>
+<td> width="43%"> <FONT COLOR="white" SIZE="1" FACE="Arial Narrow"> Ricky Martin nació en 1971. En 1984 entró en el grupo 'Menudo', con quienes viajo por toda Sudamérica recabando grandes éxitos.  En 1990 se fue de México, para trabajar en una obra de teatro con la que obtuvo un notable triunfo. Tuvo conciertos con gran éxito en toda la América y en Europa. Ha editado varios discos que cuentan con el apoyo del público. La carrera de éxitos de este joven atrevido continúa sin cesar y seguro que pronto nos sorprende con algo nuevo. En 1999 ganó Grammy, Álbumes - The Best of Ricky Martin, Almas del silencio 2003, life 2005, etc.
+Algunos de sus éxitos son: Livin la Vida Loca, vuelve, Shake your Bon Bon, La Bomba, Hagamos el amor, la copa de la vida, etc.
+</FONT> </td>
+<td width="8"> <img src="perro anim.gif" width="60" heigth="80"><FONT COLOR="white" SIZE="3"
+FACE="Arial" aling="center"> Regresar al curriculum </FONT> </td>
+<td aling="center">  <img src="Excelsior.jpg" width="80" heigth="30"> </td>
+<td aling="center">  <img src="pelicula.jpg" width="90" heigth="150"> </td> </tr>
+</TABLE>
+</BODY>
+</HTML>
